@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 public class Message {
     private String phoneNumber;
     private String messageContent;

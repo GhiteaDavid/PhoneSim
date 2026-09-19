@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -106,6 +107,6 @@ public abstract class Phone implements PhoneOperations {
 
     @Override
     public void viewHistory() {
-            System.out.println(historyCallList);
+        System.out.println(historyCallList);
     }
 }

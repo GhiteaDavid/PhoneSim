@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 public class Contact {
     private String id;
     private String phoneNumber;
@@ -29,7 +30,7 @@ public class Contact {
     }
 
     @Override
-    public String toString(){
+    public String toString() {
         return "Contact[ id: " + id + ", phoneNumber: " + phoneNumber + ", firstName: " + firstName + ", lastName: " + lastName + ' ' + ']';
     }
 }

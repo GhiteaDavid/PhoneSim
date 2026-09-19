@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 public interface PhoneOperations {
     void addContact(String id, String phoneNumber, String firstName, String lastName);
 

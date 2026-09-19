@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 public class SamsungGalaxy6 extends Samsung {
     private static final int BATTERY_LIFE = 48;
     private static final String COLOR = "White";

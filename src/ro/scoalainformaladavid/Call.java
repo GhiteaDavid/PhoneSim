@@ -1,4 +1,5 @@
 package ro.scoalainformaladavid;
+
 public class Call {
     private String phoneNumber;
 
@@ -12,6 +13,6 @@ public class Call {
 
     @Override
     public String toString() {
-        return "Call to: "+ phoneNumber;
+        return "Call to: " + phoneNumber;
     }
 }
